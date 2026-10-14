@@ -28,7 +28,8 @@ This tool solves this by querying the AWS API programmatically using least-privi
 
 ## 📸 Interface Preview
 
-![Dashboard Preview](docs/dashboard_preview.png)
+![Dashboard Preview](v[Dashboard.pdf](https://github.com/user-attachments/files/33419030/Dashboard.pdf)
+)
 
 *A sample generated audit artifact is available at `reports/sample_audit_output.pdf`.*
 
